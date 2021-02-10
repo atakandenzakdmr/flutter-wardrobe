@@ -1,6 +1,6 @@
-# firebaseasvine
+### Flutter-Wardrobe
 
-A new Flutter project.
+Digital wardrobe application with #Flutter & #Firebase
 
 ## Getting Started
 
