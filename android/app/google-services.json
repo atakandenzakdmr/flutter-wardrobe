@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948464548637",
+    "project_id": "fir-asvine-bab88",
+    "storage_bucket": "fir-asvine-bab88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948464548637:android:b6d41fbe5b4f3e86f83ff4",
+        "android_client_info": {
+          "package_name": "com.example.firebaseasvine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948464548637-m65fabv16uiqg6acaolqf7qji9hnjqak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHhNo1IktzouTYkec3aAcJgkL0ehC8HFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948464548637-m65fabv16uiqg6acaolqf7qji9hnjqak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
