@@ -1,6 +1,6 @@
 ### Flutter-Wardrobe
 
-Digital wardrobe application with #Flutter & #Firebase
+Digital wardrobe application with Flutter & Firebase
 
 ## Getting Started
 
