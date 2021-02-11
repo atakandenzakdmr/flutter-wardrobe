@@ -1,11 +1,11 @@
-### Flutter-Wardrobe
+# Flutter-Wardrobe
 
 Digital wardrobe application with Flutter & Firebase.
 
-# UI Design with Adobe XD
+## UI Design with Adobe XD
 AppFlow https://xd.adobe.com/view/39930076-68f6-4173-98bc-bec8389839f9-6cc0/?fullscreen&hints=off
 
-# Getting Started
+## Getting Started
 
 This project is a starting point for a Flutter application.
 
